@@ -16,7 +16,7 @@ db.user.insert(
 )
 ```
                       
-***db.drop database***      <<<<<<<--Remove karan leyi 
+
 
 # what is collection?
 
